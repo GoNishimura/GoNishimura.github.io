@@ -1,6 +1,7 @@
 # Social Links
 - [X](https://x.com/5246ra)
 - [YouTube](https://www.youtube.com/@5246ra)
+- [GitHub](https://github.com/GoNishimura)
 - [Ko-fi](https://ko-fi.com/5246ra)
 
 # Projects
