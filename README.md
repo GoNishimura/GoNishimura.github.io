@@ -9,7 +9,7 @@
 - goyo4xx@gmail.com
 
 # For Sale
-- [二四コマ計](https://nishikomakei--nishikomakei.asia-east1.hosted.app/)
+- [二四コマ計](https://nishikomakei--nishikomakei.asia-east1.hosted.app/login)
   - 指定されたFPSによるコマ数表記によって時間を計測などできるストップウォッチアプリです。クレジットカードによる注文時の決済で、お支払い後直ちにご利用が可能になります。
 
 # Projects
