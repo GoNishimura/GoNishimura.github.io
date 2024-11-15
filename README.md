@@ -1,6 +1,7 @@
 # Social Links
 - [X](https://x.com/5246ra)
 - [YouTube](https://www.youtube.com/@5246ra)
+  - [My animations](https://youtube.com/playlist?list=PLII0QfoK3vzYalCtzCbV60xl879i99wIh&si=ziznE7vQundZf8rb)
 - [GitHub](https://github.com/GoNishimura)
 - [Discord](http://discord.gg/7fKUtTSRD5)
   - If you can make / handle SD models or code apps, let's innovate anime together! 
