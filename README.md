@@ -5,7 +5,7 @@
 - [Discord](http://discord.gg/7fKUtTSRD5)
   - If you can make / handle SD models or code apps, let's innovate anime together! 
 - [Ko-fi](https://ko-fi.com/5246ra)
-  - おひねりください
+  - 広告に屈さずに済むよう、おひねりください
 - goyo4xx@gmail.com
 
 # For Sale
