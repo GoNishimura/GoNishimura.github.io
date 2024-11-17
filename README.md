@@ -1,10 +1,10 @@
 # Social Links
 - [X](https://x.com/5246ra)
-- [YouTube](https://www.youtube.com/@5246ra)
-  - [My animations](https://youtube.com/playlist?list=PLII0QfoK3vzYalCtzCbV60xl879i99wIh&si=ziznE7vQundZf8rb)
+- [YouTube animations](https://youtube.com/playlist?list=PLII0QfoK3vzYalCtzCbV60xl879i99wIh&si=ziznE7vQundZf8rb)
+  - [channel](https://www.youtube.com/@5246ra)
 - [GitHub](https://github.com/GoNishimura)
 - [Discord](http://discord.gg/7fKUtTSRD5)
-  - If you can make / handle SD-like models or code apps, let's innovate anime together! 
+  - If you can make / handle SD-like models or code apps, let's innovate anime through AI and codes together! 
 - [Ko-fi](https://ko-fi.com/5246ra)
   - 広告に屈さずに済むよう、おひねりください
 - goyo4xx@gmail.com
