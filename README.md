@@ -13,6 +13,7 @@
 - [二四コマ計](https://nishikomakei--nishikomakei.asia-east1.hosted.app/login)
   - 指定されたフレームレートによるコマ数表記によって時間を計測などできるストップウォッチアプリです。クレジットカードによる注文時の決済で、お支払い後直ちにご利用が可能になります。
   - [使い方](https://youtu.be/vfH7M_lIXwQ)
+  - ![explain.gif](/how2use.gif)
 
 # Projects
 - [コマ改オクリ](https://gonishimura.github.io/komakai-okuri/)
