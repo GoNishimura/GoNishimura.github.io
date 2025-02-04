@@ -20,8 +20,6 @@
   - ![explain.gif](/how2use.gif)
 
 # Projects
-- [画像見targa（ファイル盛り付け師γ）](https://github.com/GoNishimura/file-moritsukeshi/tree/main)
-  - ![preview](https://gyazo.com/dceb17dac88d19bb3b339c4c6bc820a0/raw)
 - [コマ改オクリ](https://gonishimura.github.io/komakai-okuri/)
   - [codes](https://github.com/GoNishimura/komakai-okuri) 
   - ![demo.gif](https://github.com/GoNishimura/komakai-okuri/blob/master/images/komakai-demo.gif?raw=true)
